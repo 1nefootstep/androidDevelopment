@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="score_margin">64dp</dimen>
+    <dimen name="cell_margin">2dp</dimen>
+    <dimen name="small_text">16sp</dimen>
+    <dimen name="medium_text">32sp</dimen>
+    <dimen name="large_text">64sp</dimen>
+    <dimen name="board_padding">16dp</dimen>
+</resources>

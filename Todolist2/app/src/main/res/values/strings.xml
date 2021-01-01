@@ -4,6 +4,7 @@
     <!-- Strings used for fragments for navigation -->
     <string name="add_task_button_description">Adds a task</string>
     <string name="add_task_dialog_title">Adds a task</string>
+    <string name="element_task"></string>
     <string name="save">Save</string>
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
